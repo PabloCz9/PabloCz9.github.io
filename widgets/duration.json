@@ -1,0 +1,1 @@
+[{"uid":"9f770c70cbe17b73","name":"TC1 Validar cálculos","time":{"start":1701652147769,"stop":1701652148819,"duration":1050},"status":"passed","severity":"blocker"},{"uid":"b63ee0cc2fc16724","name":"TC2 Validar cálculos","time":{"start":1701652150499,"stop":1701652151045,"duration":546},"status":"passed","severity":"normal"}]
